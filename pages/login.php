@@ -12,7 +12,6 @@
   <body>
     <section>
       <header class="cont">
-        <!-- <img src="Logo.png" alt="Logo Panificadora Ramalho"> -->
         <a href="../index.php" id="cadastrar"><img id="im" src="../fotos/Logo.png" alt="Logo Panificadora Ramalho"></a>
       </header>
       <hr>
@@ -25,7 +24,7 @@
           <div id="login">
             <fieldset class="cont">
               <form method="post" name="login" action="../php/pesquisar.php">
-                <input type="text" name="nome" placeholder="Nome" id="nome">
+                <input type="email" name="email" placeholder="Email" id="nome">
                 <br>
                 <input type="password" name="senha" placeholder="Senha" id="senha">
                 <br>

@@ -18,9 +18,11 @@
 		<fieldset>
 			<legend>Cadastro</legend>
 			<form id="foda" method="post" action="../php/inserir.php">
-				<input type="text" name="nome" placeholder="Digite Seu Nome">
+				<input type="text" name="nome" placeholder="Nome">
 				<br>
 				<input type="tel" name="phone" placeholder="Telefone">
+				<br>
+				<input type="email" name="email" placeholder="Email">
 				<br>
 				<input type="password" name="pass" placeholder="Crie Uma Senha" id="senha1">
 				<br>
