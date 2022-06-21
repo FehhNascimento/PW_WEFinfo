@@ -9,7 +9,7 @@ body{
 header{
 	height: 100px;
 	background-image:  linear-gradient(rgb(205,133,63), rgb(225, 141, 56));
-	width: 100%;
+	width: 101.5%;
 }
 #im{
   height: 100%;
@@ -41,7 +41,7 @@ a{
 	top: -80%;
 }
 .item{
-  width: 45%;
+  width: 620px;
   height: 420px;
   background: white;
   flex-shrink: 0;
@@ -121,8 +121,8 @@ aside{
 	left: 31%;
 }
 .cata{
-	width: 25%;
-	height: 600px;
+	width: 25.6%;
+	height: 450px;
 	flex-shrink: 0;
 	cursor: pointer;
 	position: relative;
@@ -135,10 +135,11 @@ aside{
 .cata img:hover{
 	position: relative;
 	width: 105%;
-	height: 605px;
+	height: 460px;
 }
 #catalogo{
 	overflow-x:auto;
+	width: 101.4%;
 }
 #ct{
 	display: flex;
@@ -248,7 +249,7 @@ aside{
 #ah{
 	width: 19%;
 	transform: rotate(90deg);
-	left: 90.5%;
+	left: 92%;
 	position: relative;
 	top: -70%;
 	border-color: #503320;
@@ -259,7 +260,7 @@ aside{
 #ih{
 	width: 19%;
 	transform: rotate(90deg);
-	left: 90.5%;
+	left: 93.6%;
 	position: relative;
 	top: -70%;
 	border-color: #503320;
@@ -270,7 +271,7 @@ aside{
 #uh{
 	width: 19%;
 	transform: rotate(90deg);
-	left: 90.2%;
+	left: 95.5%;
 	position: relative;
 	top: -70%;
 	border-color: #503320;
@@ -282,12 +283,13 @@ aside{
 	display: flex;
 	flex-flow: row nowrap;
 	background-color: #593c29;
+	width: 102%;
 }
 #bd{
 	font-family: Shepila;
 	font-size: 30px;
 	position: relative;
-	left: 21%;
+	left: 15%;
 	top: -15px;
 	color: white;
 	animation-duration: 2s;
