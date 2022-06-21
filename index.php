@@ -11,7 +11,7 @@
   <body>
     <section>
       <header>
-        <img id="im" src="Logo.png" alt="Logo Panificadora Ramalho">
+        <img id="im" src="fotos/Logo.png" alt="Logo Panificadora Ramalho">
         <div id="link">
           <a href="pages/login.php"><input type="button" value="Login" id="log"></a>
           <br>
