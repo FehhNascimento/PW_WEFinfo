@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <title>Panificadora Ramalho</title>
     <link href="css/estil.css" rel="stylesheet" type="text/css" />
-    <link rel="icon" type="image/x-icon" href="ico.ico">
+    <link rel="icon" type="image/x-icon" href="icones/ico.ico">
   </head>
   <body>
     <section>
@@ -45,7 +45,7 @@
       </div>
       <div id="catalogo">
         <div id="ct">
-          <div id="Pães" class="cata"><img src="paes.png" alt=""></div>
+          <div id="Pães" class="cata"><img src="fotos/paes.png" alt=""></div>
           <div id="Salgados" class="cata" id="sal"></div>
           <div id="Docesebolos" class="cata"></div>
           <div id="Bebidas" class="cata"></div>

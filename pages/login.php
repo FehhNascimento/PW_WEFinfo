@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width">
     <title>Panificadora Ramalho</title>
     <link href="../css/style.css" rel="stylesheet" type="text/css" />
-    <link rel="icon" type="image/x-icon" href="ico.ico">
+    <link rel="icon" type="image/x-icon" href="../icones/ico.ico">
   </head>
 
   <body>
     <section>
       <header class="cont">
         <!-- <img src="Logo.png" alt="Logo Panificadora Ramalho"> -->
-        <a href="../index.php" id="cadastrar"><img id="im" src="../Logo.png" alt="Logo Panificadora Ramalho"></a>
+        <a href="../index.php" id="cadastrar"><img id="im" src="../fotos/Logo.png" alt="Logo Panificadora Ramalho"></a>
       </header>
       <hr>
      

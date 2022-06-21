@@ -5,12 +5,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="../css/csss.css">
-	<link rel="icon" type="image/x-icon" href="../ico.ico">
+	<link rel="icon" type="image/x-icon" href="../icones/ico.ico">
 </head>
 <body>
 	<header class="cont">
         <!-- <img src="Logo.png" alt="Logo Panificadora Ramalho"> -->
-        <a href="../index.php" id="cadastrar"><img id="im" src="../Logo.png" alt="Logo Panificadora Ramalho"></a>
+        <a href="../index.php" id="cadastrar"><img id="im" src="../fotos/Logo.png" alt="Logo Panificadora Ramalho"></a>
 		
     </header>
     <hr>
