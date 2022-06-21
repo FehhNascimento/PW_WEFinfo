@@ -19,9 +19,8 @@
 
       </aside>
       <h1>Cartalógos de Pães</h1>
-  
       <br>
-      <img src="../fotos/baixados.jpeg" height="150px" width="300px">
+      <img src="../fotos/baixados.jpeg"/>
       <img src="../fotos/paao.jpeg">
       <img src="../fotos/pao.jpeg">
       <img src="../fotos/pao2.jpeg">
