@@ -11,7 +11,7 @@
 </head>
 <body>
 <header>
-        <img id="imp" src="../fotos/Logo.png" alt="Logo Panificadora Ramalho">
+        <a href="../index.php"><img id="imp" src="../fotos/Logo.png" alt="Logo Panificadora Ramalho"></a>
         <div id="link">
         </div>
       </header>
@@ -19,10 +19,21 @@
 
       </aside>
       <h1>Cartalógos de Pães</h1>
-      <br>
-      <img src="../fotos/baixados.jpeg"/>
-      <img src="../fotos/paao.jpeg">
-      <img src="../fotos/pao.jpeg">
-      <img src="../fotos/pao2.jpeg">
+      <div class="paof">
+      <p>Pão Francês</p>
+      <img src="../fotos/paof.jpg">
+       </div>
+       <p>Pão Doce</p>
+       <img src="../fotos/paodoce.jpg">
+       <p>Baguete</p>
+       <img src="../fotos/baguete.jpg">
+       <p>Pão Árabe</p>
+       <img src="../fotos/paoarabe.jpg">
+       <p>Pão de Coco</p>
+       <img src="../fotos/pcoco.jpg">
+       <p>Pão de Queijo</p>
+       <img src="../fotos/Queijo.jpg">
+     
+      
 </body>
 </html>

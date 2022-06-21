@@ -28,5 +28,16 @@ h1{
 	border-color: #503320;
 	background-color: #503320;
   color:white ;
+  text-align: center;
 }
+img{
+  height: 350px;
+  width: 550px;
+}
+p{
+  background-color:	black;
+  font-family: Shepila;
+  color:white;
+ margin-top: -4px;
 
+}
