@@ -5,13 +5,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Panificadora Ramalho</title>
-    <link href="css/estil.css" rel="stylesheet" type="text/css" />
+    <link href="css/estile.css" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/x-icon" href="icones/ico.ico">
   </head>
   <body>
     <section>
       <header>
-        <img id="im" src="Logo.png" alt="Logo Panificadora Ramalho">
+        <img id="im" src="fotos/Logo.png" alt="Logo Panificadora Ramalho">
         <div id="link">
           <a href="pages/login.php"><input type="button" value="Login" id="log"></a>
           <br>
@@ -38,17 +38,17 @@
         <script src="js/jas.js"></script>
       </article>
       <div id="geral">
-        <div id="barra">
-      <div id="tp"><p>Pães</p></div><hr id="ah"></div>
-        <div id="barra"><hr id="ih"></div>
-        <div id="barra"><hr id="uh"></div>
+        <div class="barra"><div id="tp"><p id="pa">Pães</p></div><hr id="ah"></div>
+        <div class="barra"><div id="tp"><p id="bd">Bolos e Doces</p></div><hr id="ih"></div>
+        <div class="barra"><div id="tp"><p id="s">Salgados</p></div><hr id="uh"></div>
+        <div class="barra"><div id="tp"><p id="b">Bebidas</p></div></div>
       </div>
       <div id="catalogo">
         <div id="ct">
-          <div id="Pães" class="cata"><img src="fotos/paes.png" alt=""></div>
-          <div id="Salgados" class="cata" id="sal"></div>
-          <div id="Docesebolos" class="cata"></div>
-          <div id="Bebidas" class="cata"></div>
+          <div id="Pães" class="cata"><img src="fotos/paes.jpg" alt=""></div>
+          <div id="Salgados" class="cata" id="sal"><img src="fotos/bolodoce.jpg" alt=""></div>
+          <div id="Docesebolos" class="cata"><img src="fotos/salgados.jpg" alt=""></div>
+          <div id="Bebidas" class="cata"><img src="fotos/bebidas.jpg" alt=""></div>
         </div>
       </div>
       <nav>

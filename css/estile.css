@@ -20,7 +20,7 @@ a{
 	text-decoration: none;
 }
 #log, #ca{
-	background-image:  linear-gradient(#F4A460, #F4A460);
+	background-image:  linear-gradient(#F4A460, rgb(205,133,63));
 	color: white;
 	border: solid 2px white;
 	border-radius: 10px 10px 10px 10px;
@@ -220,47 +220,56 @@ aside{
 	font-family: Shepila;
 	src: url(../fontes/Shepila.ttf);
 }
-#tp p{
+#pa{
 	font-family: Shepila;
 	font-size: 30px;
 	position: relative;
 	top: -15px;
-	left: 110px;
+	left: 40%;
 	color: white;
 }
-#barra{
-	background-color: #6c462a;
+.barra{
+	border-color: #503320;
 	height: 80px;
 	width: 100%;
 }
 #ah{
-	width: 14.5%;
+	width: 19%;
 	transform: rotate(90deg);
-	left: 67.6%;
+	left: 90.5%;
 	position: relative;
 	top: -70%;
 	border-color: #503320;
 	background-color: #503320;
 }
 #ih{
-	width: 14.5%;
+	width: 19%;
 	transform: rotate(90deg);
-	left: 45.4%;
+	left: 90.5%;
 	position: relative;
-	top: 48%;
+	top: -70%;
 	border-color: #503320;
 	background-color: #503320;
 }
 #uh{
 	width: 14.5%;
 	transform: rotate(90deg);
-	left: 20.3%;
+	left: 15%;
 	position: relative;
-	top: 46%;
+	top: 49%;
 	border-color: #503320;
 	background-color: #503320;
 }
 #geral{
 	display: flex;
 	flex-flow: row nowrap;
+	background-color: #593c29;
+}
+#bd{
+	font-family: Shepila;
+	font-size: 30px;
+	position: relative;
+	left: 21%;
+	top: -15px;
+	color: white;
 }
