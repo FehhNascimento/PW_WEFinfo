@@ -18,3 +18,15 @@ header{
   padding: 0;
   margin: 0;
 }
+@font-face {
+	font-family: Shepila;
+	src: url(../fontes/Shepila.ttf);
+}
+h1{
+  font-family: Shepila;
+	position: relative;
+	border-color: #503320;
+	background-color: #503320;
+  color:white ;
+}
+
