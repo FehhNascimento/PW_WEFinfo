@@ -19,8 +19,7 @@
 
       </aside>
       <h1>Cartalógos de Pães</h1>
-    <h2>aaaaaaaaaaaaaaaa</h2>
-    <h3>bbbbbbbbbbbbbbbbbbb</h3>
+  
       <br>
       <img src="../fotos/baixados.jpeg" height="150px" width="300px">
       <img src="../fotos/paao.jpeg">
