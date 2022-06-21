@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body{
+	height: 100%;
+	width: 100%;
+	background-image: url(../pao.jpg);
+}
+
+header{
+  background-image:  linear-gradient(rgb(205,133,63), rgb(225, 141, 56));
+  height: 200px;
+  zoom: 100%;
+}
+#im{
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 250px;
+  margin:  200px;
+}
+article{
+	height: 100%;
+	width: 100%;
+}
+#foda{
+	height: 250px;
+	width: 400px;
+}
+input{
+	zoom: 150%;
+	margin-top: 5px;
+	margin-left: 33px;
+}
+#but{
+	margin-left: 85px;
+}
+legend{
+	background-color: white;
+	width: 350px;
+	border: 3px solid black;
+	text-align: center;
+	position: relative;
+	left: -3px;
+}
+fieldset{
+	border: solid black 1px;
+	margin-top: 100px;
+	background: rgba(76, 175, 80, 0);
+  backdrop-filter:  blur(1px);
+}
+#fun{
+  background: rgba(76, 175, 80, 0);
+  backdrop-filter:  blur(1px);
+  position: relative;
+  height: 30px;
+  width: 38px;
+}
+#fun a{
+  font-weight: bold;
+}
+#cadastrar{
+  position: relative;
+  color: black;
+  opacity: 1;
+  text-decoration: none;
+  font-size: 15px;
+  transition: font-size 0.5s;
+}
+#cadastrar:hover{
+  color:  #008B8B;
+  font-size: 20px;
+}

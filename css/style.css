@@ -1,0 +1,116 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-image: url(../pao.jpg);
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+hr{
+  color: #D2691E;
+  border: solid 1px;
+}
+.cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header{
+  background-image:  linear-gradient(rgb(205,133,63), rgb(225, 141, 56));
+  height: 200px;
+  zoom: 120%;
+}
+#im{
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 250px;
+  margin:  200px;
+}
+article{
+  height: 100%;
+  width: 100%;
+}
+#log{
+  zoom: 100%;
+  width: 256px;
+  background-color: white;
+}
+#log h1{
+  text-align: center;
+}
+#login{ 
+  zoom: 200%;
+  width: 112px;
+  height: 180 px;
+}
+#nome{
+  width: 200px;  
+  margin-top: 20px;
+}
+#senha{
+  width: 200px; 
+  margin-top: 5px; 
+}
+#entrar{
+  margin-top: 3px;
+  margin-left: 25%;
+  width: 100px;
+  height: 25px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #D2691E;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.6);
+  transition: font-size 0.5s;
+}
+#entrar:hover{
+  font-size: 15px;
+}
+#login fieldset{
+  position: relative;
+  right: 66%;
+  width: 256px;
+  margin-top: 50%;
+  backdrop-filter:  blur(0.9px);
+}
+fieldset a{
+  font-size: 10px;
+}
+#cadastrar{
+  position: relative;
+  color: black;
+  opacity: 1;
+  text-decoration: none;
+  font-size: 8px;
+  transition: font-size 0.5s;
+}
+#cadastrar:hover{
+  color:  #008B8B;
+  font-size: 10px;
+}
+#feijao{
+  position: relative;
+  top: -311px;
+}
+#arroz{
+  width: 514.5px;
+  background-color: white;
+  border: grey solid 3px;
+}
+#fun{
+  background: rgba(76, 175, 80, 0);
+  backdrop-filter:  blur(1px);
+  position: relative;
+  left: -12%;
+  height: 30px;
+  width: 38px;
+}
+#fun a{
+  font-weight: bold;
+}
+#seta img{
+  width: 10%;
+  height: 10%;
+}
