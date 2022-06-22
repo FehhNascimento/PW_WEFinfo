@@ -21,7 +21,7 @@ hr{
 header{
   background-image:  linear-gradient(rgb(205,133,63), rgb(225, 141, 56));
   height: 200px;
-  zoom: 120%;
+  zoom: 50%;
 }
 #im{
   align-items: center;
@@ -43,8 +43,10 @@ article{
   text-align: center;
 }
 #login{ 
-  zoom: 200%;
+  zoom: 170%;
   width: 112px;
+  top: 50px;
+  position: relative;
   height: 180 px;
 }
 #nome{
@@ -92,10 +94,10 @@ fieldset a{
 }
 #feijao{
   position: relative;
-  top: -311px;
+  top: -161px;  
 }
 #arroz{
-  width: 514.5px;
+  width: 436.5px;
   background-color: white;
   border: grey solid 3px;
 }
