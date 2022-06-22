@@ -1,0 +1,45 @@
+header{
+	height: 100px;
+	background-image:  linear-gradient(rgb(205,133,63), rgb(225, 141, 56));
+	width: 100%;
+}
+#imp{
+    height: 100%;
+    width: 10%;
+    position: relative;
+    left: 46%;
+  }
+  #link{
+      position: relative;
+      left: 95%;
+      top: -80%;
+  }
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  @font-face {
+      font-family: Shepila;
+      src: url(../fontes/Shepila.ttf);
+  }
+  h1{
+    font-family: Shepila;
+      position: relative;
+      border-color: #503320;
+      background-color: #503320;
+    color:white ;
+    text-align: center;
+  }
+  img{
+    height: 350px;
+    width: 550px;
+  margin-left: auto;
+  }
+  p{
+    background-color:	black;
+    font-family: Shepila;
+    color:white;
+   margin-top: -4px;
+  
+  }
+  

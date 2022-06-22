@@ -39,15 +39,15 @@
       </article>
       <div id="geral">
         <div class="barra"><div id="tp"><a href="pages/pao.php"><p id="pa">Pães</p></div><hr id="ah"></a></div>
-        <div class="barra"><div id="tp"><p id="bd">Bolos e Doces</p></div><hr id="ih"></div>
-        <div class="barra"><div id="tp"><p id="s">Salgados</p></div><hr id="uh"></div>
+        <div class="barra"><div id="tp"><a href="pages/bolo.php"><p id="bd">Bolos e Doces</p></div><hr id="ih"></a></div>
+        <div class="barra"><div id="tp"><a href="pages/sal.php"><p id="s">Salgados</p></div><hr id="uh"></a></div>
         <div class="barra"><div id="tp"><p id="b">Bebidas</p></div></div>
       </div>
       <div id="catalogo">
         <div id="ct">
           <div id="Pães" class="cata"><a href="pages/pao.php"><img src="fotos/paes.jpg" alt=""></a></div>
-          <div id="Salgados" class="cata" id="sal"><img src="fotos/bolodoce.jpg" alt=""></div>
-          <div id="Docesebolos" class="cata"><img src="fotos/salgados.jpg" alt=""></div>
+          <div id="Salgados" class="cata" id="sal"><a href="pages/bolo.php"><img src="fotos/bolodoce.jpg" alt=""></a></div>
+          <div id="Docesebolos" class="cata"><a href="pages/sal.php"><img src="fotos/salgados.jpg" alt=""></a></div>
           <div id="Bebidas" class="cata"><img src="fotos/bebidas.jpg" alt=""></div>
         </div>
       </div>

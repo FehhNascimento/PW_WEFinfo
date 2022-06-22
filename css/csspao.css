@@ -33,6 +33,7 @@ h1{
 img{
   height: 350px;
   width: 550px;
+margin-left: auto;
 }
 p{
   background-color:	black;

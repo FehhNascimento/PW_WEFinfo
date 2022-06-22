@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../css/csspao.css" rel="stylesheet" type="text/css" />
 
-    <title>Cartalogo</title>
+    <title>Pães</title>
+    <link rel="icon" type="image/x-icon" href="../icones/ico.ico">
 </head>
 <body>
 <header>
@@ -19,8 +20,8 @@
 
       </aside>
       <h1>Cartalógos de Pães</h1>
-      <div class="paof">
       <p>Pão Francês</p>
+      <div class="paof">
       <img src="../fotos/paof.jpg">
        </div>
        <p>Pão Doce</p>
@@ -34,6 +35,5 @@
        <p>Pão de Queijo</p>
        <img src="../fotos/Queijo.jpg">
      
-      
 </body>
 </html>
