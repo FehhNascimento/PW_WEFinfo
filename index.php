@@ -51,12 +51,18 @@
           <div id="Bebidas" class="cata"><img src="fotos/bebidas.jpg" alt=""></div>
         </div>
       </div>
-      <div id="horario-funcionamento">
-
+      <hr id="oh">
+      <br>
+      <div id="hf">
+          <img src="fotos/horario.png" alt="" id="hff">
       </div>
       <footer>
-  
+        <div id="fora">
+          <div class="bola"><a href="https://m.facebook.com/Panificadora-Ramalho-572777929438672/"><img src="fotos/face.png" alt="" id="face" class="lg"></a></div>
+          <div class="bola"><a href="https://www.instagram.com/panif.ramalho/"><img src="fotos/insta.png" alt="" id="insta" class="lg"></a></div>
+          <div class="bola"><a href="https://wa.me/558899072753"><img src="fotos/zap.png" alt="" id="zap" class="lg"></a></div>
+        </div>
+        <p id="contato">Formas de contado</p>
       </footer>
     </section>
-
   </body>
