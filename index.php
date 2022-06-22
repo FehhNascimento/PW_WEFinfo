@@ -56,6 +56,17 @@
       <div id="hf">
           <img src="fotos/horario.png" alt="" id="hff">
       </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+
+      <br>
+      <br>
+      <br>
+
       <footer>
         <div id="fora">
           <div class="bola"><a href="https://m.facebook.com/Panificadora-Ramalho-572777929438672/"><img src="fotos/face.png" alt="" id="face" class="lg"></a></div>
